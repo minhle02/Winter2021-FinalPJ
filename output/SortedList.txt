@@ -1,0 +1,24 @@
+Before sorting:
+11	Smith,	Susan
+11	Trump,	Donald
+11	Biden,	Joe
+11	Wick,	John
+22	Nguyen,	Tran
+22	Nguyen,	Ha
+22	Nguyen,	An
+19	Le,	Minh
+23	Bond,	James
+25	Tran,	Quynh
+
+After sorting:
+25	Tran,	Quynh
+23	Bond,	James
+22	Nguyen,	An
+22	Nguyen,	Ha
+22	Nguyen,	Tran
+19	Le,	Minh
+11	Biden,	Joe
+11	Smith,	Susan
+11	Trump,	Donald
+11	Wick,	John
+
